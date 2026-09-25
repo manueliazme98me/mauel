@@ -3,10 +3,8 @@ import React, { useMemo, useState, useEffect } from "react";
 const ModalContent = ({ project }) => {
     const {
         title,
-        projectType,
         client,
         description,
-        technologies = [],
         achievements = [],
         skills = [],
         previewLabel,
