@@ -36,7 +36,7 @@ const index = () => {
               {/* End personal info */}
 
               <div className="col-12 mt-1">
-                <a className="button" href="img/Manuel_Diaz_Resume.docx" download>
+                <a className="button" href="img/CV.pdf" download>
                   <span className="button-text">Download CV</span>
                   <span className="button-icon fa fa-download"></span>
                 </a>
