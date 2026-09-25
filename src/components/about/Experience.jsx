@@ -4,7 +4,7 @@ const experienceContent = [
   {
     year: "2024 - 2026",
     company: "McGraw Hill",
-    position: "Software Engineer",
+    position: "Fullstack Developer",
     location: "Copenhagen, Denmark",
     period: "APR 2024 — JUN 2026",
     summary:
@@ -21,7 +21,7 @@ const experienceContent = [
   {
     year: "2021 - 2023",
     company: "Raiffeisen Bank Online",
-    position: "Frontend Engineer",
+    position: "Senior Frontend Developer",
     location: "Moscow, Russia",
     period: "JUN 2021 — APR 2023",
     summary:

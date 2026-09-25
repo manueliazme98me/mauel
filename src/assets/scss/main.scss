@@ -1,25 +1,25 @@
-/*----FontAwesome-------*/
-@import url("../fonts/font-awesome/css/font-awesome.min.css");
-@import "node_modules/direction-reveal/src/styles/direction-reveal.scss";
-@import "bootstrap/dist/css/bootstrap.css";
-
 // Style Scss
-@import "main/modal";
-@import "main/404";
-@import "main/preview";
-@import "main/circle";
-@import "main/styleswitcher";
-@import "main/slick";
-@import "main/style";
+@use "main/modal";
+@use "main/404" as error404;
+@use "main/preview";
+@use "main/circle";
+@use "main/styleswitcher";
+@use "main/slick";
+@use "main/style";
 
 // skin
-@import "main/skins/yellow";
-@import "main/skins/blue";
-@import "main/skins/blueviolet";
-@import "main/skins/goldenrod";
-@import "main/skins/green";
-@import "main/skins/magenta";
-@import "main/skins/orange";
-@import "main/skins/purple";
-@import "main/skins/red";
-@import "main/skins/yellowgreen";
+@use "main/skins/yellow";
+@use "main/skins/blue";
+@use "main/skins/blueviolet";
+@use "main/skins/goldenrod";
+@use "main/skins/green";
+@use "main/skins/magenta";
+@use "main/skins/orange";
+@use "main/skins/purple";
+@use "main/skins/red";
+@use "main/skins/yellowgreen";
+
+/*----FontAwesome-------*/
+@import url("../fonts/font-awesome/css/font-awesome.min.css");
+@import "~direction-reveal/src/styles/direction-reveal.css";
+@import "bootstrap/dist/css/bootstrap.css";

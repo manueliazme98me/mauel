@@ -7,11 +7,9 @@ const heroContent = {
   heroImage: "img/hero/dark.jpg",
   heroMobileImage: "img-mobile",
   heroTitleName: "Manuel Diaz",
-  heroDesignations: ["FullStack Developer", "Problem Solver"], 
-  heroDescriptions: `I'm a Tunisian based web designer & front‑end developer focused on
-  crafting clean & user‑friendly experiences, I am passionate about
-  building excellent software that improves the lives of those
-  around me.`,
+  heroDesignations: ["FullStack Developer", "AI Integration"],
+  heroDescriptions: `I help startups build and improve SaaS, marketplace, and AI-powered web applications using React, Next.js, Node.js, and modern product-focused technologies.
+My focus is not just writing clean code, but building products that are stable, fast, and easy to scale.`,
   heroBtn: "more about me",
 };
 
@@ -62,9 +60,8 @@ const Hero = () => {
         <div
           className="col-lg-4 bg position-fixed d-none d-lg-block"
           style={{
-            backgroundImage: `url(${
-              process.env.PUBLIC_URL + heroContent.heroImage
-            })`,
+            backgroundImage: `url(${process.env.PUBLIC_URL + heroContent.heroImage
+              })`,
           }}
         ></div>
         <div className="col-12 col-lg-8 offset-lg-4 home-details  text-center text-lg-start">
