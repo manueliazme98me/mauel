@@ -119,13 +119,13 @@ const Experience = () => {
             </a>
           </div>
 
-          <div className="experience-tags">
+          {/* <div className="experience-tags">
             {activeItem.tools.map((tool) => (
               <span className="experience-tag" key={`${activeItem.company}-${tool}`}>
                 {tool}
               </span>
             ))}
-          </div>
+          </div> */}
         </div>
 
         <div className="experience-visual" aria-hidden="true">

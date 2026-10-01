@@ -19,13 +19,13 @@ const Address = () => {
       </p>
       {/* End .custom-span-contact */}
 
-      <p className="open-sans-font custom-span-contact position-relative">
+      {/* <p className="open-sans-font custom-span-contact position-relative">
         <i className="fa fa-phone-square position-absolute"></i>
         <span className="d-block">call me</span>{" "}
         <a href="tel:+19295487825" target="_blank" rel="noopener noreferrer">
           +1 929 548 7825
         </a>
-      </p>
+      </p> */}
       {/* End .custom-span-contact */}
     </>
   );
