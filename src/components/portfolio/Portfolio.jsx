@@ -297,7 +297,7 @@ const portfolioData = [
   }
 ];
 
-const tabFilters = ["ALL","AI", "FULLSTACK", "WEBDESIGN"];
+const tabFilters = ["ALL", "FULLSTACK", "WEBDESIGN"];
 
 const getProjectCategories = (project) => {
   const rawCategories = Array.isArray(project?.categories)
