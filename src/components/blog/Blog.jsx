@@ -19,7 +19,7 @@ const defaultBlogPosts = [
     client_name: "Eric",
     image: "img/blog/Eric.jpg",
     rating: 5,
-    title: "high-quality website design and development",
+    title: "High-quality website design and development",
     description:
       "The final site is beautiful, polished, and thoughtfully designed, and they did a great job translating the brand direction into a refined digital experience. Communication throughout the process was professional and responsive, and I’m very pleased with the result. I would gladly recommend him for high-quality website design and development.",
     skills: ["PHP", "JavaScript", "Website Design", "Graphic Design"],
@@ -39,9 +39,9 @@ const defaultBlogPosts = [
     client_name: "Mia Martinez",
     image: "img/blog/martinez.jpg",
     rating: 4,
-    title: "Full‑Stack Developers Needed for Modern Media Platform  -- 3",
+    title: "Full‑Stack Development Needed for Modern Media Platform",
     description:
-      "It couldn't be better everything is perfect. Fast and excellent quality of both work and communication They delivered excellent work and was responsive throughout the project. Great experience working. He was knowledgeable, reliable, and completed the work efficiently. Highly recommended.  It couldn't be better everything is perfect. Fast and excellent quality of both work and communication They delivered excellent work and was responsive throughout the project. Great experience working. He was knowledgeable, reliable, and completed the work efficiently. Highly recommended.",
+      "It couldn't be better everything is perfect. Fast and excellent quality of both work and communication They delivered excellent work and was responsive throughout the project. Great experience working. He was knowledgeable, reliable, and completed the work efficiently. Highly recommended.",
     skills: ["PHP", "JavaScript", "Website Design", "Node.js", "HTML", "CSS"],
   },
   {
@@ -51,7 +51,7 @@ const defaultBlogPosts = [
     rating: 4,
     title: "Simplified Admin Panel Development",
     description:
-      "Excellent work and very professional attitude. The freelancer understood the requirements quickly, delivered high-quality results, and respected the timeline. I’m very satisfied with the outcome and highly recommend them.",
+      "Excellent work and very professional attitude. He understood the requirements quickly, delivered high-quality results, and respected the timeline. I’m very satisfied with the outcome and highly recommend them.",
     skills: ["PHP", "JavaScript", "Website Design", "Graphic Design", "HTML", "CSS"],
   },
   {
@@ -61,7 +61,7 @@ const defaultBlogPosts = [
     rating: 5,
     title: "Full-Stack Developer for Learning Management System",
     description:
-      "I’m really glad I worked with her. She understood what I needed quickly and made the whole process easy. Everything went smoothly, and the final result turned out exactly how I wanted. I’d definitely work with her again.",
+      "I’m really glad I worked with him. He understood what I needed quickly and made the whole process easy. Everything went smoothly, and the final result turned out exactly how I wanted. I’d definitely work with him again.",
     skills: ["PHP", "JavaScript", "Website Design", "Node.js", "HTML", "CSS"],
   },
   {
