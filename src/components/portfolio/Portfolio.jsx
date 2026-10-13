@@ -274,27 +274,6 @@ const portfolioData = [
     ],
     previewUrl: "https://www.popovleather.com/",
   },
-  {
-    id: 10,
-    title: "OfficeStock",
-    category: [ "FULLSTACK", "WEBDESIGN" ],
-    projectType: "Laravel",
-    client: "",
-    description: "",
-    achievements: [],
-    skills: [
-      "PHP",
-      "Laravel",
-    ],
-    previewLabel: "View Project Details",
-    image: "img/projects/officestock.jpg",
-    contentImages: [
-      "img/projects/officestock.jpg",
-      "img/projects/officestock-1.jpg",
-      "img/projects/officestock-2.jpg",
-    ],
-    previewUrl: "https://officestock.com/",
-  }
 ];
 
 const tabFilters = ["ALL", "FULLSTACK", "WEBDESIGN"];
