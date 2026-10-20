@@ -7,7 +7,7 @@ const SocialShare = [
   // },
   {
     iconName: "fa fa-whatsapp",
-    link: "https://wa.me/19295487825",
+    link: "https://wa.me/639501358469",
   },
   { iconName: "fa fa-telegram", link: "https://t.me/brownmillos" },
 ];
